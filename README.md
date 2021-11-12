@@ -8,4 +8,4 @@ available in:
 
 ![alt text](https://github.com/rmarcelino4/WordsCount_FromPDF/blob/main/data/Unknown.png?raw=true)
 
-This code is not limited to making the word cloud...it allows building a corpus, using the resources of *Natural language processing* (NLP).
+This code is not limited to making the word cloud...it allows building a corpus, using the resources of **Natural language processing** (NLP).
